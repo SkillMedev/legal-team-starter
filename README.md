@@ -14,9 +14,9 @@ Reach for this when you are a founder or lean in-house team handling legal work 
 
 ## Skills in this pack
 
-- **[Regulatory Scanner](skills/regulatory-scan/SKILL.md)** — Maps relevant regulations for a product or industry with compliance requirements and gaps.
-- **[Terms of Service](skills/terms-of-service/SKILL.md)** — Drafts plain-English terms of service and privacy policies for SaaS products.
-- **[Employment Contract Review](skills/employment-contract/SKILL.md)** — Flags non-standard clauses in employment contracts: non-competes, IP assignment, severance.
+- **[Regulatory Scanner](skills/regulatory-scan/SKILL.md)** — Maps which regulations apply to a product or business across every operating jurisdiction, translates them into concrete obligations, and produces a prioritized compliance-gap table.
+- **[Terms of Service](skills/terms-of-service/SKILL.md)** — Drafts plain-English Terms of Service and Privacy Policies for SaaS products using a clause-by-clause checklist, flagging every business decision and lawyer-review item explicitly.
+- **[Employment Contract Review](skills/employment-contract/SKILL.md)** — Reviews an employment agreement clause by clause, flags deviations from market-standard terms — non-compete scope, IP assignment breadth, cause definitions, equity mechanics — and produces a review table with recommended asks, explicitly bounded as not legal advice.
 
 ## License
 
