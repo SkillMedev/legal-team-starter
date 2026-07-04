@@ -9,7 +9,7 @@ Reach for this when you are a founder or lean in-house team handling legal work 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/legal-team-starter](https://skillme.dev/pack/legal-team-starter) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/legal-team-starter`
+- **With the skills CLI:** `npx skills add SkillMedev/legal-team-starter`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
